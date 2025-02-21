@@ -1,0 +1,95 @@
+.caja1{
+    border: 10px;
+    border-style: dashed;
+    background-color: darkgreen;
+    width: 80%;
+    height: 60px;
+    margin: 20px;
+    padding-left: 100px;
+}
+
+.caja2{
+    border: 10px;
+    border-style: dashed;
+    background-color: greenyellow;
+    width: 95%;
+    height: 600px;
+    margin: 20px;
+}
+
+.cir1{
+    border: 5px;
+    border-radius: 100%;
+    border-style: dashed;
+    background-color: darkslateblue;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    padding: 40px 10px 10px 40px;
+}
+
+.cir2{
+    border: 5px;
+    border-radius: 100%;
+    border-style: dashed;
+    background-color: darkmagenta;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 30px 10px 10px 30px;
+}
+
+.cir3{
+    border: 5px;
+    border-radius: 100%;
+    border-style: dashed;
+    background-color: greenyellow;
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+.cir4{
+    border: 5px;
+    border-radius: 100%;
+    border-style: dashed;
+    background-color: darkslateblue;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    padding: 40px 40px 50px 110px;
+}
+
+.cir5{
+    border: 5px;
+    border-radius: 100%;
+    border-style: dashed;
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    padding: 30px 30px 10px 30px;
+}
+
+.cir6{
+    border: 5px;
+    border-radius: 100%;
+    border-style: dashed;
+    background-color: greenyellow;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    padding: 10px 10px 20px 30px;
+}
+
+.cir7{
+    border: 5px;
+    border-radius: 100%;
+    border-style: dashed;
+    background-color: black;
+    width: 5px;
+    height: 40px;
+    margin: 10px;
+    padding: 10px 10px 10px 10px;
+}
